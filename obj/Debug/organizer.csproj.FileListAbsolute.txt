@@ -1,0 +1,93 @@
+F:\organizer\organizer\bin\Debug\organizer.exe.config
+F:\organizer\organizer\obj\Debug\organizer.Form1.resources
+F:\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+F:\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.Cache
+F:\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+F:\organizer\organizer\bin\Debug\organizer.exe
+F:\organizer\organizer\bin\Debug\organizer.pdb
+F:\organizer\organizer\obj\Debug\organizer.exe
+F:\organizer\organizer\obj\Debug\organizer.pdb
+F:\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+F:\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe.config
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.exe
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.pdb
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.pdb
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Dodawanie_kontaktow.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Form1.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe.config
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.exe
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.pdb
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Dodawanie_kontaktow.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Form1.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.pdb
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Dodawanie_kontaktow.resources
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Form1.resources
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.cache
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.CoreCompileInputs.cache
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.exe
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.pdb
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe.config
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.pdb
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.CopyComplete
+F:\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe.config
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.pdb
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Dodawanie_kontaktow.resources
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Form1.resources
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.cache
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.CoreCompileInputs.cache
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.CopyComplete
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.exe
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.pdb
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Form1.resources
+C:\Users\macio\Downloads\Nowy folder\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.kalendarz_dialog.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe.config
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.exe
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.pdb
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.dodawanie_Daty.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Dodawanie_kontaktow.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Form1.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.pdb
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\user\Downloads\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe.config
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.exe
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\organizer.pdb
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\System.Data.SqlServerCe.dll
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\bin\Debug\PL\System.Data.SqlServerCe.resources.dll
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csprojResolveAssemblyReference.cache
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.dodawanie_Daty.resources
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Dodawanie_kontaktow.resources
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Form1.resources
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.Properties.Resources.resources
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.GenerateResource.cache
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.CoreCompileInputs.cache
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.csproj.CopyComplete
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.exe
+D:\OneDrive-2018-05-22 (2)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22 (1)\OneDrive-2018-05-22\organizer\organizer\obj\Debug\organizer.pdb
